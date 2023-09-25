@@ -47,3 +47,18 @@ button:hover {
 #BorlabsCookieBox ._brlbs-block-content._brlbs-bg-dark {
   display: none !important;
 }
+
+.fusion-fullwidth,
+.fullwidth-box,
+.fusion-builder-row-1,
+.fusion-flex-container,
+.has-pattern-background,
+.has-mask-background,
+.hundred-percent-fullwidth,
+.non-hundred-percent-height-scrolling,
+.fusion-sticky-container,
+.fusion-custom-z-index,
+.fusion-sticky-transition,
+.fusion-container-stuck {
+  width: 100% !important;
+}
