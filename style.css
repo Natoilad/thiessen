@@ -1,0 +1,49 @@
+/* img {
+  display: block;
+}
+button {
+  border-radius: 8px;
+  padding: 0;
+  border: none;
+  margin-right: 20px;
+}
+
+button:hover {
+  scale: 1.05;
+  -webkit-box-shadow: 0px -14px 49px -25px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px -14px 49px -25px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px -14px 49px -25px rgba(0, 0, 0, 0.75);
+}
+
+.ans {
+  position: absolute;
+  top: -250px;
+} */
+
+.box_shadow:hover {
+  border-radius: 10px;
+  box-shadow: 0px 0px 15px -4px rgba(0, 0, 0, 0.75);
+}
+
+.button-2,
+.button-2,
+.button-3,
+.button-4,
+.button-5,
+.button-6,
+.button-7,
+.button-8,
+.button-9,
+.button-10 {
+  display: none !important;
+}
+
+.fusion-form-image-select label {
+  padding: 10px !important;
+}
+
+._brlbs-bar-wrap,
+.BorlabsCookieBox,
+#BorlabsCookieBox ._brlbs-block-content._brlbs-bg-dark {
+  display: none !important;
+}
