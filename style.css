@@ -35,6 +35,7 @@ button:hover {
 .button-8,
 .button-9,
 .button-10 {
+  /* visibility: hidden !important; */
   display: none !important;
 }
 
