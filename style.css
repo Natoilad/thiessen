@@ -1,31 +1,8 @@
-/* img {
-  display: block;
-}
-button {
-  border-radius: 8px;
-  padding: 0;
-  border: none;
-  margin-right: 20px;
-}
-
-button:hover {
-  scale: 1.05;
-  -webkit-box-shadow: 0px -14px 49px -25px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 0px -14px 49px -25px rgba(0, 0, 0, 0.75);
-  box-shadow: 0px -14px 49px -25px rgba(0, 0, 0, 0.75);
-}
-
-.ans {
-  position: absolute;
-  top: -250px;
-} */
-
 .box_shadow:hover {
   border-radius: 10px;
   box-shadow: 0px 0px 15px -4px rgba(0, 0, 0, 0.75);
 }
 
-.button-2,
 .button-2,
 .button-3,
 .button-4,
@@ -35,14 +12,8 @@ button:hover {
 .button-8,
 .button-9,
 .button-10 {
-  /* visibility: hidden !important; */
   display: none !important;
 }
-
-.fusion-form-image-select label {
-  padding: 10px !important;
-}
-
 ._brlbs-bar-wrap,
 .BorlabsCookieBox,
 #BorlabsCookieBox ._brlbs-block-content._brlbs-bg-dark {
@@ -62,4 +33,108 @@ button:hover {
 .fusion-sticky-transition,
 .fusion-container-stuck {
   width: 100% !important;
+}
+
+.fusion-form-image-select,
+.image-select-noch_nicht2 {
+  width: 120px !important;
+  height: 120px !important;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-field.fusion-form-label-above
+  label
+  span {
+  bottom: -100px !important;
+}
+
+.fusion-form-field
+  .fusion-form-image-select-field
+  .fusion-form-label-above
+  .fusion-form-field-fusion-form-image-select-9
+  .option-inline {
+  --awb-height: 120px !important;
+  --awb-width: 120px !important;
+}
+
+.fusion-form-label-wrapper fieldset {
+  text-align: start !important;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-field
+  .fusion-form-image-select
+  label
+  .fusion-form-image-wrapper {
+  width: 120px !important;
+  height: 120px !important;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-field
+  .fusion-form-image-select
+  label
+  .fusion-form-image-wrapper {
+  margin-top: -20px;
+}
+@media screen and (min-width: 440px) {
+  .fusion-form-form-wrapper
+    .fusion-form-field
+    .fusion-form-image-select
+    label
+    .fusion-form-image-wrapper {
+    width: 180px !important;
+    height: 180px !important;
+  }
+
+  .fusion-form-field
+    .fusion-form-image-select-field
+    .fusion-form-label-above
+    .fusion-form-field-fusion-form-image-select-9
+    .option-inline {
+    --awb-height: 180px !important;
+    --awb-width: 180px !important;
+  }
+  .fusion-form-image-select,
+  .image-select-noch_nicht2 {
+    width: 180px !important;
+    height: 180px !important;
+  }
+  .fusion-form-form-wrapper
+    .fusion-form-field.fusion-form-label-above
+    label
+    span {
+    bottom: -150px !important;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .fusion-form-form-wrapper
+    .fusion-form-field
+    .fusion-form-image-select
+    label
+    .fusion-form-image-wrapper {
+    width: 215px !important;
+    height: 215px !important;
+  }
+
+  .fusion-form-field
+    .fusion-form-image-select-field
+    .fusion-form-label-above
+    .fusion-form-field-fusion-form-image-select-9
+    .option-inline {
+    --awb-height: 215px !important;
+    --awb-width: 215px !important;
+  }
+  .fusion-form-image-select,
+  .image-select-noch_nicht2 {
+    width: 215px !important;
+    height: 215px !important;
+  }
+  .fusion-form-form-wrapper
+    .fusion-form-field.fusion-form-label-above
+    label
+    span {
+    bottom: -180px !important;
+  }
 }
