@@ -1,4 +1,4 @@
-/* .button-2,
+.button-2,
 .button-3,
 .button-4,
 .button-5,
@@ -13,7 +13,7 @@
 .BorlabsCookieBox,
 #BorlabsCookieBox ._brlbs-block-content._brlbs-bg-dark {
   display: none !important;
-} */
+}
 
 .box_shadow:hover {
   border-radius: 10px;
@@ -37,15 +37,15 @@
 
 .fusion-form-image-select,
 .image-select-noch_nicht2 {
-  width: 120px !important;
-  height: 120px !important;
+  width: 150px !important;
+  height: 150px !important;
 }
 
 .fusion-form-form-wrapper
   .fusion-form-field.fusion-form-label-above
   label
   span {
-  bottom: -100px !important;
+  bottom: -120px !important;
 }
 
 .fusion-form-field
@@ -53,8 +53,8 @@
   .fusion-form-label-above
   .fusion-form-field-fusion-form-image-select-9
   .option-inline {
-  --awb-height: 120px !important;
-  --awb-width: 120px !important;
+  --awb-height: 150px !important;
+  --awb-width: 150px !important;
 }
 
 .fusion-form-label-wrapper fieldset {
@@ -66,8 +66,8 @@
   .fusion-form-image-select
   label
   .fusion-form-image-wrapper {
-  width: 120px !important;
-  height: 120px !important;
+  width: 150px !important;
+  height: 150px !important;
 }
 
 .fusion-form-form-wrapper
