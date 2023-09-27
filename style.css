@@ -1,9 +1,4 @@
-.box_shadow:hover {
-  border-radius: 10px;
-  box-shadow: 0px 0px 15px -4px rgba(0, 0, 0, 0.75);
-}
-
-.button-2,
+/* .button-2,
 .button-3,
 .button-4,
 .button-5,
@@ -18,6 +13,11 @@
 .BorlabsCookieBox,
 #BorlabsCookieBox ._brlbs-block-content._brlbs-bg-dark {
   display: none !important;
+} */
+
+.box_shadow:hover {
+  border-radius: 10px;
+  box-shadow: 0px 0px 15px -4px rgba(0, 0, 0, 0.75);
 }
 
 .fusion-fullwidth,
